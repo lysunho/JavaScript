@@ -1,0 +1,153 @@
+.welcom{
+	padding:40px 0px 60px;
+}
+.welcom img{
+	float:left;
+	margin-right:30px;
+	width:460px;
+	height:260px;
+}
+.welcom p.welText{
+	float:right;
+}
+.welcom h2{
+	line-height:30px;
+	color:#495268;
+}
+.welcom span{
+	line-height:26px;
+	font-size:14px;
+	color:#797979;
+}
+.welcom .ios_bg{
+	margin-top:60px;
+	margin-right:58px;
+	width:526px;
+	float:left;
+}
+.welcom .ios_bg.r0{
+	margin-right:0px;
+}
+.welcom .ios_bg .circle{
+	float:left;
+	margin-right:30px;
+	width:60px;
+	height:60px;
+	background-color:#F37D6C;
+	border-radius:50%;
+}
+.welcom .ios_bg .ios{
+	float:left;
+	width:436px;
+}
+.skill{
+	padding:85px 0px 65px;
+	background-color:#F2F2F2;
+}
+.skill .left{
+	float:left;
+	width:460px;
+}
+.skill .left img{
+	float:left;
+	margin-right:15px;
+	width:100px;
+	height:100px;
+	border-radius:50%;
+}
+.skill .left p{
+	float:left;
+}
+.skill .left  h4{
+	margin-top:25px;
+	font-size:14px;
+	color:#514B49;
+}
+.skill .left span{
+	font-size:12px;
+	color:#ABABAB;
+}
+.skill .left .say{
+	padding:20px 40px 20px 20px;
+	margin-top:66px;
+	font-size:14px;
+	line-height:20px;
+	background-color:#E9E9E9;
+	color:#797979;
+}
+.skill .right{
+	float:right;
+	width:620px;
+}
+.skill .right h4{
+	margin-bottom:26px;
+	font-size:16px;
+	color:#514B49;
+}
+.skill .right ul li{
+	margin-bottom:20px;
+	height:30px;
+	background-color:#E1E1E1;
+}
+.skill .right ul li p{
+	padding-left:10px;
+	height:30px;
+	line-height:30px;
+	background-color:#F37D6C;
+	font-size:12px;
+	color:#fff;
+}
+.skill .right ul li p.p1{
+	width:384px;
+}
+.skill .right ul li p.p2{
+	width:568px;
+}
+.skill .right ul li p.p3{
+	width:456px;
+}
+.skill .right ul li p.p4{
+	width:360px;
+}
+.team{
+	padding:55px 0px 66px;
+}
+.team .meet{
+	color:#495268;
+	text-align:center;
+}
+.team .work{
+	margin:20px 0px 60px;
+	color:#8A8B8B;
+	text-align:center;
+}
+.team img{
+	width:210px;
+	height:210px;
+	border-radius:50%;
+}
+.team .worker{
+	float:left;
+	margin-right:48px;
+	width:338px;
+	text-align:center;
+}
+.team .worker.r0{
+	margin-right:0px;
+}
+.team .worker h2{
+	margin:12px 0px 10px;
+	font-size:16px;
+	color:#F37C6B;
+}
+.team .worker span{
+	font-size:12px;
+	color:#A1A1A1;
+}
+.team .worker p{
+	margin-top:70px;
+	font-size:14px;
+	line-height:25px;
+	color:#797979;
+}
+

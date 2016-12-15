@@ -1,0 +1,53 @@
+/*主体部分*/
+.main{
+	padding:454px 0px 70px;
+}
+.main .left{
+	float:left;
+}
+.main  h4{
+	margin-bottom:30px;
+	color:#475168;
+}
+.main .left p{
+	line-height:25px;
+	font-size:14px;
+	color:#797979;
+}
+.main .left p.phone{
+	margin-top:76px;
+}
+.main .right{
+	float:right;
+	width:655px;
+}
+.main .right label{
+	display:block;
+	margin:20px 0px 10px;
+	font-size:14px;
+	color:#797979;
+}
+.main .right .btn input{
+	width:100%;
+	border:1px solid #E2E2E4;
+	border-radius:4px;
+}
+.main .right input#name,.main .right input#email,.main .right input#phone{
+	height:32px;
+	line-height:32px;
+}
+.main .right input#message{
+	height:112px;
+}
+.main .right .btn0{
+	margin-bottom:15px;
+}
+.main .right input[type="submit"]{
+	width:75px;
+	height:35px;
+	color:#fff;
+	border:none;
+	background-color:#FF6C60;
+	border-radius:5px;
+	font-size:16px;
+}
