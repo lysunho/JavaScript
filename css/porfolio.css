@@ -1,0 +1,21 @@
+.banner{
+	padding:40px 83px 110px 83px;
+}
+.banner ul li{
+	float:left;
+	margin-bottom:44px;
+	margin-right:8px;
+	padding:15px 15px 12px 16px;
+	background:#E2E0E1;	
+	border-radius:5px;
+	font-size:14px;
+	color:#7D797A;
+}
+.banner img{
+	float:left;
+	margin-right:20px;
+	margin-bottom:20px;
+}
+.banner  .r0{
+	margin-right:0px;
+}
